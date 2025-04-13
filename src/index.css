@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer components{
+    .mycontainer {
+        @apply container px-30 py-16 mx-auto;
+    }
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+  }
