@@ -17,9 +17,9 @@ const Navbar = () => {
                         <a className='hover:font-bold' href="#">Contact</a>
                     </li>
                 </ul> */}
-                <button>
+                <a href='https://github.com/Prriiitttt/PassMate' target='_blank' rel='noopener noreferrer'>
                     <img className='p-5 w-22 cursor-pointer' src="/icons/github.png" alt="Github logo" />
-                </button>
+                </a>
             </div>
         </nav>
     )
